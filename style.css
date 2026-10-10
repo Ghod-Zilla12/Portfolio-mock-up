@@ -46,7 +46,7 @@ nav {
 .top { 
   display:flex;
   flex-direction:column;
-  background: linear-gradient(rgba(91,155,200,.88),rgba(91,155,200,.8)),url(/images/background.jpg) center/cover; 
+  background: linear-gradient(rgba(91,155,200,.88),rgba(91,155,200,.8)),url(image/background.jpg) center/cover; 
   color: #fff;
   padding: 120px 20px;
 }
